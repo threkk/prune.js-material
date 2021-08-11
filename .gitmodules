@@ -1,0 +1,9 @@
+[submodule "projects/dead-code-example"]
+	path = projects/dead-code-example
+	url = https://github.com/threkk/dead-code-example.git
+[submodule "projects/chalk"]
+	path = projects/chalk
+	url = https://github.com/chalk/chalk.git
+[submodule "projects/debug"]
+	path = projects/debug
+	url = https://github.com/visionmedia/debug.git
