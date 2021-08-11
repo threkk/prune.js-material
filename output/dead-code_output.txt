@@ -1,0 +1,7 @@
+ D E A D   C O D E
+=> Dependencies 1 [ 'dayjs' ]
+=> Modules 1 [ '/opt/t/dead-code/src/old-diff.js' ]
+=> Statements 2 [
+  '/opt/t/dead-code/src/diff.js_4:0,6:1_FunctionDeclaration',
+  '/opt/t/dead-code/src/diff.js_5:2,5:30_ReturnStatement'
+]

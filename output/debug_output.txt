@@ -1,0 +1,13 @@
+ D E A D   C O D E
+=> Dependencies 0 []
+=> Modules 0 []
+=> Statements 8 [
+  '/opt/t/debug/src/browser.js_13:1,13:20_VariableDeclaration',
+  '/opt/t/debug/src/browser.js_15:1,20:3_ReturnStatement',
+  '/opt/t/debug/src/browser.js_16:2,19:3_IfStatement',
+  '/opt/t/debug/src/browser.js_17:3,17:17_ExpressionStatement',
+  '/opt/t/debug/src/browser.js_257:0,257:36_VariableDeclaration',
+  '/opt/t/debug/src/browser.js_263:0,269:2_ExpressionStatement',
+  '/opt/t/debug/src/browser.js_265:2,265:27_ReturnStatement',
+  '/opt/t/debug/src/browser.js_267:2,267:56_ReturnStatement'
+]
