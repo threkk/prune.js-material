@@ -1,10 +1,10 @@
 # prune.js-material
 
-> Supporting materials used in {{ PAPER_DOI }}.
+> Supporting materials used in [prune.js](https://github.com/threkk/prune.js)
 
 ## Configuration
 
-Configuration files for [`prune.js`](https://github.com/prune.js). Read the
+Configuration files for [`prune.js`](https://github.com/threkk/prune.js). Read the
 README of the tool to learn how to use them.
 
 ## Graphs
