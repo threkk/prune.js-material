@@ -1,6 +1,8 @@
 # prune.js-material
 
-> Supporting materials used in [prune.js](https://github.com/threkk/prune.js)
+> Prune.js is a tool created to detect dead code in JavaScript projects using ECMAScript 6.
+
+This repository contains supporting material. 
 
 ## Configuration
 
