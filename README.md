@@ -2,7 +2,7 @@
 
 > Prune.js is a tool created to detect dead code in JavaScript projects using ECMAScript 6.
 
-This repository contains supporting material. 
+Supporting materials used in [prune.js](https://github.com/threkk/prune.js)
 
 ## Configuration
 
